@@ -1,0 +1,28 @@
+label {
+  display: inline-block;
+  width: 75px;
+  padding: 5px 0;
+}
+
+button {
+  margin: 10px 75px;
+}
+
+form {
+  padding: 20px;
+}
+
+.usersList {
+  padding:  0 20px;
+  margin-left: 75px;
+}
+
+span {
+  cursor: default;
+  background-color: #ccc;
+  padding: 5px;
+}
+
+span:hover {
+  background: #adadad;
+}
