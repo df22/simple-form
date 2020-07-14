@@ -1,3 +1,12 @@
+## Upute
+
+1. Pokrenuti server <br />
+  `cd backend` <br />
+  `node server.js`
+  
+2. Pokrenuti client <br />
+  `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
