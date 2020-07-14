@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 
 import { connect } from 'react-redux';
 
-import { addUser, onFirstNameChange, onLastNameChange, onEmailChange, loadUsers, deleteUser, getUsers } from './actions';
+import { addUser, onFirstNameChange, onLastNameChange, onEmailChange, deleteUser, getUsers } from './actions';
 
 import './App.css';
 
