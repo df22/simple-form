@@ -1,10 +1,15 @@
-## Upute
+## How to use
 
-1. Pokrenuti server <br />
+1. Install dependencies <br />
+  `npm install` <br />
+  `cd backend` <br />
+  `npm install`
+  
+1. Start server <br />
   `cd backend` <br />
   `node server.js`
   
-2. Pokrenuti client <br />
+2. Start client <br />
   `npm start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
